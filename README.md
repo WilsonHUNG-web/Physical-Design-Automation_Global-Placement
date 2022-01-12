@@ -8,13 +8,13 @@ $ make
 ```
 It will generate the executable file ```./hw4```.
 
-If you want to remove it, please enter the following command:
+If you want to remove it, please enter the following command,
 ```
 $ make clean
 ```
 
 ## How to Run
-In this directory, enter the following command:
+In this directory, enter the following command,
 ```
 Usage: ./<exe> -aux <aux file>
 ```
