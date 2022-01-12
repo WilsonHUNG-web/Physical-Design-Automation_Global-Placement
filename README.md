@@ -22,7 +22,7 @@ e.g.
 ```
 $ ./hw4 -aux testcases/ibm01/ibm01-cu85.aux
 ```
-It will generate the result file in ```output/```.
+It will generate the result file in ```./output/```.
 
 p.s.
 You can also execute the all.sh file which includes all testcases provided by:
