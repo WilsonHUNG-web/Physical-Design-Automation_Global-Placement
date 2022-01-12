@@ -6,7 +6,7 @@ In this directory, enter the following command:
 ```
 $ make
 ```
-It will generate the executable file ```hw4``` in ```HW4/```.
+It will generate the executable file ```./hw4```.
 
 If you want to remove it, please enter the following command:
 ```
