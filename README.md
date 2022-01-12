@@ -2,7 +2,7 @@
 Follow the tips in ```./GlobalPlacer.cpp``` to get a placement with min HPWL.
 
 ## How to Compile
-In this directory, enter the following command:
+In the main directory, enter the following command,
 ```
 $ make
 ```
