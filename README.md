@@ -18,14 +18,14 @@ In this directory, enter the following command:
 ```
 Usage: ./<exe> -aux <aux file>
 ```
-e.g.
+E.g.
 ```
 $ ./hw4 -aux testcases/ibm01/ibm01-cu85.aux
 ```
 It will generate the result file in ```./output/```.
 
-p.s.
-You can also execute the all.sh file which includes all testcases provided by:
+P.s.
+You can also execute the ```./all.sh``` file which includes all testcases by the command,
 ```
 $ bash all.sh
 ```
