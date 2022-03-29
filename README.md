@@ -1,4 +1,4 @@
-# Homework4: Global Placement
+# Global Placement
 Follow the tips in ```./GlobalPlacer.cpp``` to get a placement with min HPWL.
 
 ## How to Compile
